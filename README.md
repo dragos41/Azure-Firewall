@@ -1,4 +1,4 @@
-# Create a Windows virtual machine in the Azure portal
+# Exercise: Configure Azure Firewall
 ## Step 1: Firewall deployment 
 ##### 1. Sign into your Azure subscription from this link: https://portal.azure.com/
 ##### 2. On the Azure home page, select Firewalls under the Azure services bar.
